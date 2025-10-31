@@ -29,7 +29,7 @@ It allows users to **sign up, log in, view their profile, and edit their profile
 |  **Tailwind CSS**     | Utility-first CSS framework for styling  |
 
 
-## 🧑 Installation & Setup
+##  Installation & Setup
 
 Follow these steps to run the project locally:
 
